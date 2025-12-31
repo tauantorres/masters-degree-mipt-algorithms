@@ -1,0 +1,3 @@
+dijkstra 3
+knuth 2
+kormen 2

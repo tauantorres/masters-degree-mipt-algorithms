@@ -1,8 +1,2 @@
-7
-knuth
-kormen
-kormen
-knuth
-dijkstra
-dijkstra
-dijkstra
+3 3 3
+1 1 1

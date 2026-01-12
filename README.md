@@ -19,3 +19,5 @@
 1. Link to the [exam](https://contest.yandex.ru/contest/87640/problems/A/)
 2. Exam Rules [link](https://docs.google.com/document/d/1q3HSyneAPu9r_oUX-k_C9JLM5RoH7kC3/edit)
 
+
+manim -pqh <MANIM FILE>.py <MANIM CLASS>
